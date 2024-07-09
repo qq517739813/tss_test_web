@@ -1,1 +1,0 @@
-import{_ as s,o as c,c as o,p as t,g as a,a as _}from"./index-3Sy3gL4y.js";const d="/assets/png/welcome-VFYC1WKN.png",n={},p=e=>(t("data-v-fdc14855"),e=e(),a(),e),r={class:"home card"},i=p(()=>_("img",{class:"home-bg",src:d,alt:"welcome"},null,-1)),l=[i];function m(e,f){return c(),o("div",r,l)}const g=s(n,[["render",m],["__scopeId","data-v-fdc14855"]]);export{g as default};
