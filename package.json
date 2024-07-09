@@ -21,6 +21,7 @@
   "scripts": {
     "dev": "vite",
     "serve": "vite",
+    "deploy": "gh-pages -d dist",
     "build:dev": "vue-tsc && vite build --mode development",
     "build:test": "vue-tsc && vite build --mode test",
     "build:pro": "vue-tsc && vite build --mode production",
@@ -76,6 +77,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3",
     "eslint-plugin-vue": "^9.26.0",
+    "gh-pages": "^6.1.1",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.5",
     "postcss": "^8.4.38",
