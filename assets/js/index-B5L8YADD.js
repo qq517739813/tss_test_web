@@ -1,1 +1,0 @@
-import{_ as e,o as s,c as t,a as c}from"./index-Cbh8lrhq.js";const o={},n={class:"card content-box"},a=c("span",{class:"text"}," 定时任务（待完善） 🍓🍇🍈🍉",-1),_=[a];function r(d,i){return s(),t("div",n,_)}const l=e(o,[["render",r]]);export{l as default};
