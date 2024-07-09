@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,p as a,g as t,a as d}from"./index-CjXGLxy2.js";const r={},n=c=>(a("data-v-a8bdc743"),c=c(),t(),c),_={class:"card content-box"},p=n(()=>d("iframe",{src:"https://cn.bing.com/",frameborder:"0",class:"full-iframe"},null,-1)),i=[p];function f(c,l){return o(),s("div",_,i)}const h=e(r,[["render",f],["__scopeId","data-v-a8bdc743"]]);export{h as default};
